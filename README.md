@@ -64,5 +64,5 @@ Agradecemos mucho las contribuciones al proyecto.
 
 ## Autores 🖋️
 
-- **Juan Villegas** - _Trabajo Inicial_ - [jlvillegas04](https://github.com/jlvillegas04)
-- **Víctor Mazo** - _Trabajo Inicial_ - [viamazoba](https://github.com/jlvillegas04)
+- **Juan Villegas** - [jlvillegas04](https://github.com/jlvillegas04)
+- **Víctor Mazo** - [viamazoba](https://github.com/jlvillegas04)
