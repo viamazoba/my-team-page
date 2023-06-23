@@ -20,7 +20,7 @@ Sigue estos pasos para obtener una copia del proyecto y ejecutarlo en tu máquin
 
 1. Clona el repositorio utilizando Git:
 
-git clone https://github.com/tu-usuario/my-team-page.git
+git clone https://github.com/viamazoba/my-team-page.git
 
 2. Ve al directorio del proyecto:
 
